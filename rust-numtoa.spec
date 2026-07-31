@@ -7,8 +7,8 @@
 %global crate numtoa
 
 Name:           rust-%{crate}
-Version:        0.2.3
-Release:        3%{?dist}
+Version:        1.0.1
+Release:        1%{?dist}
 Summary:        Convert numbers into stack-allocated byte arrays
 
 # Upstream license specification: MIT OR Apache-2.0
